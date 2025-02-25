@@ -1,0 +1,26 @@
+.userMessage {
+    color: #000000;
+    font-style: italic;
+}
+
+.chloeMessage {
+    color: #00b300;
+    font-weight: bold;
+}
+
+input[type="text"] {
+    padding: 10px;
+    font-size: 16px;
+    margin: 10px 0px;
+}
+
+button {
+    padding: 10px 20px;
+    font-size: 16px;
+    margin: 10px 0px;
+}
+
+#chatLog {
+    height: 400px;
+    overflow-y: scroll;
+}
